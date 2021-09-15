@@ -1,0 +1,57 @@
+.heading{
+  padding: 200px;
+  background: url(../assets/IP3-master/assets/backgrounds/h_img.jpg);
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.about{
+  text-align: center;
+}
+.heading2{
+  padding: 200px;
+  background: url(../assets/IP3-master/assets/backgrounds/s_image.jpg);
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.what_we_do_heading{
+  text-align: center;
+}
+.col-md-4{
+  flex: auto;
+  text-align: center;
+}
+.row{
+  display: flex;
+  flex: auto;
+  flex-direction: row;
+}
+.title-up{
+  text-align: center;
+}
+.col-lg-4{
+  flex: auto;
+  text-align: center;
+}
+.image{
+  margin-bottom: 2%;
+}
+.five div{
+  width: 22%;
+  padding: 10px;
+}
+.five img{
+  width: 100%;
+}
+.portfolio{
+  align-items: center;
+  padding: 10px;
+}
+.six{
+  text-align: center;
+  background: url(../assets/IP3-master/assets/backgrounds/c_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
