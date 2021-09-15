@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
   $('#design').click(function(){
-     $('.show1').slideToggle(1500);
-     $('.ficha1').slideToggle(1000);
+     $('#designp').slideToggle(1500);
+     $('#designimg').slideToggle(1000);
   });
   $('.mouse_click2').click(function(){
     $('.ficha2').slideToggle(1000);
