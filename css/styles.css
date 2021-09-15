@@ -55,3 +55,12 @@
   background-size: cover;
   color: white;
 }
+#designp{
+  display: none;
+}
+#devp{
+  display: none;
+}
+#projectp{
+  display: none;
+}

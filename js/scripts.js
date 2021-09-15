@@ -1,11 +1,7 @@
 $(document).ready(function() {
-  alert($);
-});
-
-/*
   $('#design').click(function(){
-    $('#designp').slideToggle(1500)
-    $('#designimg').slideToggle(1000)
+    $('#designp').toggle()
+    $('#designimg').toggle()
   })
   $('.mouse_click2').click(function(){
     $('.ficha2').slideToggle(1000);
@@ -30,4 +26,3 @@ $(document).ready(function() {
   });
 
 })
-*/
