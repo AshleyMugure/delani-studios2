@@ -1,5 +1,8 @@
 $(document).ready(function() {
+  alert($);
+});
 
+/*
   $('#design').click(function(){
     $('#designp').slideToggle(1500)
     $('#designimg').slideToggle(1000)
@@ -27,3 +30,4 @@ $(document).ready(function() {
   });
 
 })
+*/
