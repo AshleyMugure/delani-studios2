@@ -51,6 +51,10 @@
   align-items: center;
   padding: 10px;
 }
+#img{
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
 .six{
   text-align: center;
   background: url(../images/backgrounds/c_image.jpg);
