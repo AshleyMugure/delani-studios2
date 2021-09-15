@@ -1,15 +1,15 @@
 $(document).ready(function() {
   $('#design').click(function(){
-    $('#designp').toggle()
-    $('#designimg').toggle()
+    $('#designimg').slideToggle(1000);
+    $('#designp').slideToggle(1500)
   })
-  $('.mouse_click2').click(function(){
-    $('.ficha2').slideToggle(1000);
-    $('.show2').slideToggle(1500);
+  $('#development').click(function(){
+    $('#devp').slideToggle(1000);
+    $('#devimg').slideToggle(1500);
   });
-    $('.mouse_click3').click(function(){
-    $('.ficha3').slideToggle(1000);
-    $('.show3').slideToggle(1500);
+    $('#project').click(function(){
+    $('#projectp').slideToggle(1000);
+    $('#productimg').slideToggle(1500);
   });
 
   $('#myForm').submit(function(event){
